@@ -1,0 +1,147 @@
+body{
+  background: rgb(103,54,16);
+  background: linear-gradient(90deg, rgba(103,54,16,1) 0%, rgba(238,167,160,1) 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+
+}
+
+.nav-menu{
+    font-size: large;
+    text-align: right;
+    padding: 10px 30px 10px 30px;
+    background: rgb(231,100,0);
+    background: linear-gradient(90deg, rgba(231,100,0,1) 0%, rgba(250,108,0,1) 0%, rgba(236,236,236,1) 100%);
+    color: #fff;
+
+}
+
+.nav-menu > a {
+  font-size: large;
+  text-align: right;
+  padding: 10px 30px 10px 30px;
+ 
+}
+
+.nav-item-active{
+  color: #6C4C32;
+  text-decoration: none;
+
+}
+
+.nav-item {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+.breadcrumb-item {
+    font-size: large;
+    text-align: left;
+    padding: 10px 30px 10px 30px;
+}
+
+.table-center{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    padding: 19px;
+    margin-top: 100px;
+    background-color: #E9CCB5;
+}
+
+.login-table-th, td{
+    font-size: large;
+    padding: 9px;
+    color: #6C4C32;
+}
+
+.job-list-table-th {
+  font-size: large;
+  padding: 9px;
+  color: #ffffff;
+}
+
+.footer-copyright {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .register-center {
+    text-align: center;
+  }
+
+  .btn-primary {
+    background-color: #6C4C32;
+    padding: 7px;
+    font-weight: bold;
+    border-color: transparent;
+    color: #ffffff;
+  }
+
+  .job-listing-table {
+    background-color: transparent;
+    width: 90%;
+    margin: auto;
+  }
+  
+  .job-item-table {
+    background-color: blanchedalmond;
+    width: 100%;
+    margin: auto;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border-color: black;
+    border-width: 3pt;
+    border-spacing: 0px;
+  }
+
+  .job-item-table tr{
+    line-height: 15px;
+  }
+
+  .job-title-label {
+    font-weight: bold;
+    font-size: 24px;
+  }
+
+  .job-skills-label {
+
+    font-size: 18px;
+  }
+
+  .job-location-label {
+    font-weight: bold;
+    font-size: 14px;
+    color: gray;
+  }
+
+.job-type-label{
+  font-weight: bold;
+  font-size: 14px;
+  color: brown;
+  }  
+
+  .apply-button {
+    background-color: #6C4C32;
+    padding: 4px;
+    font-weight: bold;
+    border-color: transparent;
+    color: #fff;
+    border-spacing: 0px;
+    height: auto;
+  }
+
+.job-posted-date-label {
+
+}
+
+.body-container {
+
+}
